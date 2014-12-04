@@ -6,7 +6,7 @@ A game engine that helps making MMO HTML5/WebGL games much less painful.
 Features
 --------
 
-  * Node CLI `todo`
+  * Node CLI `WIP`
   * Server `todo`
   * Database `todo`
   * Game Engine `todo`
